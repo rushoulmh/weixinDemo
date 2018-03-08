@@ -9,7 +9,7 @@ html,body,fieldset,img,iframe,abbr{border:0;}
 h1,h2,h3,h4,h5,h6,em,strong,b{font-weight:bold;}
 h1,h2,h3,h4,h5,h6,small{font-size:100%;}
 i,cite,em,var,address,dfn{font-style:normal;}
-table{border-collapse:collapse;border-spacin:0;}
+table{border-collapse:collapse;border-spacing:0;}
 caption,th{text-align:left;font-weight:normal;}
 [hidefocus],summary{outline:0;}
 li{list-style:none;}
@@ -20,6 +20,7 @@ textarea{overflow:auto;resize:none;}
 label,summary{cursor:default;}
 a,button{cursor:pointer;}
 del,ins,u,s,a,a:hover{text-decoration:none;}
+html,body{width:100%;height:100%;}
 body{background-color:#fff;}
 /**
  * Reset for mobile
