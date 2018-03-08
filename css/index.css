@@ -29,7 +29,7 @@ body{width:7.5rem;height:100%;font-size:16px;background-color:#fafafa;}
     -moz-transform:translateX(-50%);-ms-transform:translateX(-50%);
     transform:translateX(-50%);width:.6rem;height:.36rem;}
 .u-photo{width:100%;border-radius:inherit;}
-.u-qr{width:90%;}
+.u-qr{width:95%;}
 /* font */
 @font-face{font-family:"iconfont";
     src:url("../font/iconfont.eot");
