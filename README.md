@@ -1,2 +1,2 @@
 # weixinDemo
-微信端页面demo
+请在移动端打开查看
