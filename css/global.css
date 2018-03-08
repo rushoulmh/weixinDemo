@@ -78,38 +78,6 @@ body{-webkit-overflow-scrolling:touch;}
 .z-usn{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
 
 /**
- * Animation
- */
-/* 淡入 */
-.a-fadein{-webkit-animation-name:fadein;-o-animation-name:fadein;animation-name:fadein;}
-@-webkit-keyframes fadein{
-    0%{opacity:0;}
-    100%{opacity:1;}
-}
-@-o-keyframes fadein{
-    0%{opacity:0;}
-    100%{opacity:1;}
-}
-@keyframes fadein{
-    0%{opacity:0;}
-    100%{opacity:1;}
-}
-/* 淡出 */
-.a-fadeout{-webkit-animation-name:fadeout;-o-animation-name:fadeout;animation-name:fadeout;}
-@-webkit-keyframes fadeout{
-    0%{opacity:1;}
-    100%{opacity:0;}
-}
-@-o-keyframes fadeout{
-    0%{opacity:1;}
-    100%{opacity:0;}
-}
-@keyframes fadeout{
-    0%{opacity:1;}
-    100%{opacity:0;}
-}
-
-/**
  * Other
  */
 .b-10,.b-15,.b-20,.b-30,.b-40{display:block;height:10px;clear:both;overflow:hidden;}
