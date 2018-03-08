@@ -29,7 +29,7 @@ body{width:7.5rem;height:100%;font-size:16px;background-color:#fafafa;}
     -moz-transform:translateX(-50%);-ms-transform:translateX(-50%);
     transform:translateX(-50%);width:.6rem;height:.36rem;}
 .u-photo{width:100%;border-radius:inherit;}
-.u-qr{width:90%;}
+.u-qr{width:95%;}
 /* font */
 @font-face{font-family:"iconfont";
     src:url("../font/iconfont.eot");
@@ -78,7 +78,7 @@ body{width:7.5rem;height:100%;font-size:16px;background-color:#fafafa;}
 .m-cnt-1 .stt:first-child{padding-top:0;}
 .m-cnt-1 dd{color:#878686;}
 .m-cnt-hobby{width:100%;text-align:center;color:#878686;}
-.m-cnt-hobby .myfont{display:block;width:1.8rem;height:1.8rem;line-height:1.8rem;
+.m-cnt-hobby .myfont{display:block;width:1.5rem;height:1.5rem;line-height:1.5rem;
     border:.02rem solid #878686;border-radius:.05rem;font-size:4em;}
 .m-cnt-2{width:70%;margin-left:auto;margin-right:auto;}
 .m-cnt-2 li{padding-bottom:.3rem;list-style-type:disc;}
